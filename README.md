@@ -1,4 +1,5 @@
 # Diagnóstico Operacional & Engenharia de Dados com SQLite, Excel e Power BI
+![Uploading image.png…]()
 
 
 Sobre o Projeto: Desenvolvimento de uma arquitetura de dados relacional no SQLite para simular um cenário real de e-commerce. O projeto abrange desde a modelagem física do banco de dados (DDL/DML com integridade referencial) até o diagnóstico financeiro de perdas de faturamento na camada executiva (Power BI).
