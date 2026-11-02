@@ -1,7 +1,7 @@
 ## Visualização & Dashboard Executivo (Power BI)
 
 ### Visão Geral do Painel
-![Dashboard Executivo Power BI](https://github.com/user-attachments/assets/da7ed035-3aae-41ff-91dd-366c7130db36).
+![Dashboard Executivo Power BI](https://github.com/user-attachments/assets/da7ed035-3aae-41ff-91dd-366c7130db36)
 
 
 
