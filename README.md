@@ -1,13 +1,16 @@
 ## Visualização & Dashboard Executivo (Power BI)
 
 ### Visão Geral do Painel
-![Dashboard Executivo Power BI](<img width="1300" height="732" alt="Captura de tela 2026-11-01 220948" src="https://github.com/user-attachments/assets/1fc21f70-cd9e-471b-9a8a-82dee4622e9b" />
-).
+![Dashboard Executivo Power BI](https://github.com/user-attachments/assets/da7ed035-3aae-41ff-91dd-366c7130db36).
+
+
+
 
 ### Diagnóstico do Canal TikTok (Filtrado)
 > *Destaque para o volume de cancelamentos e divergência entre faturamento bruto e líquido no canal.*
-![Filtro Canal TikTok](<img width="1300" height="733" alt="Captura de tela 2026-11-01 220948" src="https://github.com/user-attachments/assets/eeb763cd-a3ff-4a1f-92e3-83545ac04f6c" />
-)
+![Filtro Canal TikTok](https://github.com/user-attachments/assets/d00a344c-f005-4cbc-a0df-f906b425db24)
+
+
 
 # Diagnóstico Operacional & Engenharia de Dados com SQLite, Excel e Power BI
 
